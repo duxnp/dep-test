@@ -1,14 +1,1 @@
-email-validator==2.0.0
-fastapi[standard]==0.115.0
-fastapi-filter[sqlalchemy]==2.0.1
-fastapi-pagination==0.13.3
-greenlet==3.2.3
-ldap3==2.9.1
 oracledb==2.4.1
-panzi-json-logic==1.0.1
-phonenumbers==9.0.9
-pydantic-settings==2.3.3
-pydantic_extra_types==2.10.5
-scalar_fastapi==1.2.2
-sqlakeyset==2.0.1746777265
-sqlalchemy==2.0.41
