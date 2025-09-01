@@ -8,7 +8,7 @@ cffi==1.17.1
     # via cryptography
 cryptography==45.0.7
     # via oracledb
-oracledb==2.4.1
+oracledb==3.3.0
     # via -r requirements.in
 pycparser==2.22
     # via cffi
