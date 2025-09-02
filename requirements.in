@@ -1,2 +1,2 @@
-fastapi==0.1.19
+fastapi==0.116.1
 oracledb==3.3.0
