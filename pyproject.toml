@@ -23,3 +23,6 @@ target-version = ["py312"]
 
 [tool.isort]
 profile = "black"
+
+[tool.pip-tools]
+generate-hashes = true
