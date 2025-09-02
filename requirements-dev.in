@@ -1,0 +1,8 @@
+# Dev dependencies extend prod dependencies
+-r requirements.in
+
+# Dev tools
+pytest==8.0.0
+
+# Editable install for local dev
+-e .
