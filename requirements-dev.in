@@ -2,7 +2,7 @@
 -r requirements.in
 
 # Dev tools
-pytest==8.0.0
+pytest==8.4.1
 
 # Editable install for local dev
 -e .
